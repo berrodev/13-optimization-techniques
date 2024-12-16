@@ -21,6 +21,7 @@ export default [
       },
       globals: globals.browser,
     },
+
     rules: {
       'no-unused-vars': 'warn',
       'react-refresh/only-export-components': 'error',
