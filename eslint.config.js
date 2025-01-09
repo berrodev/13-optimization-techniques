@@ -30,5 +30,10 @@ export default [
       'react/react-in-jsx-scope': 'off',
       'react-hooks/exhaustive-deps': 'warn',
     },
+    settings: {
+      react: {
+        version: 'detect',
+      },
+    },
   },
 ];
