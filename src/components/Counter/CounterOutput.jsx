@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { log } from '../../log.js';
 
 export default function CounterOutput({ value }) {
